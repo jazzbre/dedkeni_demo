@@ -4,6 +4,7 @@
 
 ### INSTALLATION
 Just download and unpack the [dedkeni_demo.zip](dedkeni_demo.zip) (9Mb download) and run Dedkeni.exe.
+It also needs [Visual Studio C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe), though there's a high chance you already have it installed.
 
 
 ### HOW TO PLAY
