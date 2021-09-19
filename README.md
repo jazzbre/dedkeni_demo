@@ -1,5 +1,5 @@
 # DEDKENI DEMO
-
+![](screenshot.jpg)
 
 
 ### HOW TO PLAY
