@@ -3,7 +3,7 @@
 
 
 ### INSTALLATION
-Just download and unpack the [dedkeni_demo.zip](dedkeni_demo.zip) and run Dedkeni.exe.
+Just download and unpack the [dedkeni_demo.zip](dedkeni_demo.zip) (9Mb download) and run Dedkeni.exe.
 
 
 ### HOW TO PLAY
